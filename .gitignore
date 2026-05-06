@@ -6,6 +6,7 @@
 !auto-binds.cfg
 !auto-hud.cfg
 !auto-sanctified-2024.cfg
+!ui/sanctifiedHUD.cfg
 
 # Whitelist .gitignore itself
 !.gitignore
