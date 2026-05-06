@@ -8,6 +8,8 @@
 !auto-sanctified-2024.cfg
 !ui/
 !ui/sanctifiedHUD.cfg
+!ui/sanctified.vhud
+!ui/sanctified.menu
 
 # Whitelist .gitignore itself
 !.gitignore
