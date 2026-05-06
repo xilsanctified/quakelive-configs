@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Whitelist specific config files
+!autoexec.cfg
+!auto-binds.cfg
+!auto-hud.cfg
+!auto-sanctified-2024.cfg
+
+# Whitelist .gitignore itself
+!.gitignore
